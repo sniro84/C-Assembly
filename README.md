@@ -1,4 +1,4 @@
-# C-Assembly
+# Mini-Assembler
 ************
 
 This is a final project in the course "Systems programming lab" in the open university.
